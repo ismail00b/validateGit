@@ -1,5 +1,5 @@
 ﻿function func (option) {
 ﻿	if(option)
 ﻿	return "test is true";
-	return "test";	
+	return "test is false";	
 };
